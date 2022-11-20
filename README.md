@@ -22,7 +22,6 @@ Projeto em React.js
 - **Typescript** 
 - **uuid** - Lib ultilizada para criar um id aleatório
 - Libs
-- HTML 
-- CSS
+- HTML/CSS
 
 Feito com carinho por Gabriel Nicodemos 
