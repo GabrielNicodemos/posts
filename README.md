@@ -1,7 +1,6 @@
 # Posts
-Projeto em React.js
-
-# list-user-react
+![Readme Card](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Readme Card](https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Como iniciar o Projeto?
 - Clonar o repositório e navegar até a pasta do projeto
